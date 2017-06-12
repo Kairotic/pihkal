@@ -8,3 +8,7 @@ Live coding is becoming more widely known [@Kretowitz17], but it is not clear ex
 
 Algorave might be presented as sci-fi made real, but we take an alternative view, of Luddite live coders stripping back technology to reveal otherwise hidden qualities and histories. This view is explained in the context of the TidalCycles livecoding environment [@McLean14], which approaches algorithmic music in terms of patterns of repetition, symmetry, interference and deviation, on multiple scales and levels [@Spiegel81]. An extended survey of patterning strategies in the TidalCycles community, supported by visualisations, leads into a review of algorithmic patterns in wider culture, including the braids formed by (algorithmic) maypole dances, and the emergence of discrete mathematics and algorithms from weaving technology in ancient Greece (Fanfani and Harlizius-Klück, 2016). The argument is made that as an Electronic Dance Music, the activity and site of algorave is so distant from software engineering, that we must take a longer view in order to understand its true nature, as one of a long line of cultures engaging shared experience of mathematics and movement.
 
+# What is live coding?
+
+# Luddite view
+
