@@ -14,3 +14,6 @@ Algorave might be presented as sci-fi made real, but we take an alternative view
 
 # Patterns known and loved
 
+# Algorithmic patterns in culture
+
+# The long view
