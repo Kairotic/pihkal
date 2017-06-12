@@ -1,6 +1,8 @@
 -*- mode:markdown ; mode:visual-line -*-
-# Patterns I Have Known and Loved: A working title
-# Alex McLean, Ellen Harlizius-Klück, Giovanni Fanfani,  Research Institute, Deutsches Museum, Munich
+% Patterns I Have Known and Loved: A working title
+% Alex McLean, Ellen Harlizius-Klück, Giovanni Fanfani,  Research Institute, Deutsches Museum, Munich
+
+# Abstract
 
 Live coding is becoming more widely known (Kretowitz, 2017), but it is not clear exactly what live coding is. We can say that it is a community of practice, interested in changing rules while they are followed (Ward et al, 2004), but as a result, it seems that no concrete definition of live coding can be offered without being immediately overturned by that same community. In some sense, Algorave events are experimental in that they aim to challenge ideas, and do not always ‘work’ (Collins and McLean, 2014). So after over 100 such experiments, what can we say about the experience of taking part in an Algorave? 
 
