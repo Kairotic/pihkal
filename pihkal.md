@@ -1,3 +1,4 @@
+-*- mode:markdown ; mode:visual-line -*-
 # Patterns I Have Known and Loved: A working title
 # Alex McLean, Ellen Harlizius-Klück, Giovanni Fanfani,  Research Institute, Deutsches Museum, Munich
 
